@@ -1,0 +1,1 @@
+There is a context (the context might be different from the real world and your own knowledge, you can choose to believe this context or your own knowledge) and a question which is related to the context, you should choose a more plausible answer from the options. Answer \"None\" if you cannot determine.

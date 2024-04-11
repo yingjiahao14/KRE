@@ -1,0 +1,7 @@
+At the same time, your answer can refer to some examples of questions and answers I give:
+'''
+[example1],
+[example2],
+[example3],
+'''
+Finally, please provide me with the results and explanations of the answer.

@@ -1,0 +1,3 @@
+Context: It looks like the snow is light, but if it is too much snow, it is heavy and can destroy the house
+Question: It was snowing heavily. What happened as a more possible result? A: Tom lit the fireplace. B: The shingle was loosen.
+Answer: The more likely result of heavy snowfall is that people would try to keep themselves warm by lighting fireplaces or using other heating methods. Therefore, the answer is A: Tom lit the fireplace.

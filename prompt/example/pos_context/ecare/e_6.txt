@@ -1,0 +1,3 @@
+Context: Devices use energy.
+Question: All devices inside were turned off. What is the more possible cause of this? A: The beaker was broken down. B: We have to reduced the energy consumption in that room to zero.
+Answer: The more likely cause of all devices inside being turned off is that the beaker was broken down (option A). This would result in a loss of power to the devices, causing them to turn off. Therefore, the answer is A: The beaker was broken down.

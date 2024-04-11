@@ -1,0 +1,2 @@
+Question: What is the genre of the record label of the band that performed on the Crush Tour? A: Pop B: Rock C: Hip-hop D: jazz
+Answer: The Crush Tour is performed by the band Bon Jovi. The record label of Bon Jovi is Island Records. The genre of Island Records is jazz. So the answer is: D: jazz.

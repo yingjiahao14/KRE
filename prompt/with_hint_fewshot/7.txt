@@ -1,0 +1,8 @@
+I hope that you will learn the reasoning patterns of these examples before giving your answer and explanation for your reasoning on the current question:
+'''
+Example: 
+[example1],
+[example2],
+[example3],
+'''
+It is worth noting that the reasoning process of the examples I given to you is not necessarily accurate, and you cannot learn and reason solely based on the examples I given to you.

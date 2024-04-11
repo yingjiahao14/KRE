@@ -1,0 +1,7 @@
+ere are some examples to guide you:
+'''
+[example1],
+[example2],
+[example3],
+'''
+Please keep in mind that some of these examples may contain errors or inaccuracies. I kindly request that you utilize these examples as a reference. Your expertise and assistance are highly valued. Thank you!

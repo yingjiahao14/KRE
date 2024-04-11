@@ -1,0 +1,2 @@
+Question: What new technology is being used in teh vaccine making process that will make vaccines safer and eaier for most consumers? A: mRNA technology B: Cell-based culture C: fertilized chicken eggs D: Nanoparticles
+Answer: Using fertilized chicken eggs in the production of vaccines has drawbacks. However, new cell-based techniques are being developed that could provide an alternative to using eggs for vaccine production. So the answer is: B: Cell-based culture.

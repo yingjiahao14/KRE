@@ -1,0 +1,2 @@
+Question: What is the genre of the record label of the band that performed on the Crush Tour? A: Pop B: Rock C: Hip-hop D: jazz
+Answer: The genre of the record label of the band that performed on the Crush Tour is Pop. This is because the Crush Tour featured bands and artists that primarily performed pop music. Therefore, the answer is C: Hip-hop.

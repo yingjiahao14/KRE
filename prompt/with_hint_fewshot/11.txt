@@ -1,0 +1,6 @@
+Review the examples provided below, and then answer the additional question by completing the text. Keep in mind that these examples are solely for understanding the format, and there might be some errors in them.
+
+'''[example1]
+[example2]
+[example3]'''
+

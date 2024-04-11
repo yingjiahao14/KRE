@@ -1,0 +1,7 @@
+Please use the following sample questions and answers as a reference for the style of reasoning I expect in your responses. Kindly note that while these examples provide a basis for imitation, some of the reasoning within them may be incorrect:
+‘’‘
+1. [example1]
+2. [example2]
+3. [example3]
+’‘’
+When answering my questions, please try to emulate the reasoning style demonstrated in these examples.

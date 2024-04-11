@@ -1,0 +1,6 @@
+Allow me to present some examples for better clarity:
+'''
+[example1],
+[example2],
+[example3],
+'''

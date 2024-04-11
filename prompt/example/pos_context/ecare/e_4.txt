@@ -1,0 +1,3 @@
+Context: Taxonomy is one of the three branches of systematics.
+Question: Lili will choose a branch of systematics to continue her study. What happened as a more possible result? A: She chooses taxonomy. B: She went to a college after graduation from high school.
+Answer: Although taxonomy is a branch of systematics, it is more likely that she would go to college after graduating from high school, as this is a common path for further education and career development. Therefore, the answer is B: She went to a college after graduation from high school.

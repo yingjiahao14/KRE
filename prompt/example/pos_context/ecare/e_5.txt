@@ -1,0 +1,3 @@
+Context: Fireplaces catch fire.
+Question: It was snowing heavily. What happened as a more possible result? A: Tom lit the fireplace. B: The shingle was loosen.
+Answer: The more likely result of heavy snowfall is that the shingle on the roof may become loose due to the weight and pressure of the snow. Although Tom might light the fireplace to keep warm, it is not a direct consequence of the snowfall. Therefore, the answer is B: The shingle was loosen.

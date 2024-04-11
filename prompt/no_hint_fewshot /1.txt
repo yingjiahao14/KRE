@@ -1,0 +1,7 @@
+Here are some examples: 
+'''
+[example1],
+[example2],
+[example3],
+'''
+I'd like you to Imitate these examples and give me your answer to the following question:

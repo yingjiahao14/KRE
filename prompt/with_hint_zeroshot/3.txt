@@ -1,0 +1,1 @@
+You will receive a question accompanied by a context related to it. Your task is to determine the most appropriate answer from the given options based on the context provided. Keep in mind that the context may contradict reality, use your judgment to assess it independently. If you are unable to determine the answer, you can respond with \"None\".

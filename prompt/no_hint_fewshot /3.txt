@@ -1,0 +1,10 @@
+Here are some examples: 
+'''
+Example 1: 
+[example1],
+Example 2: 
+[example2],
+Example 3: 
+[example3],
+'''
+You should read these examples and answer the following question.

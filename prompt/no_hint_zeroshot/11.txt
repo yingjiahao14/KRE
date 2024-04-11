@@ -1,0 +1,1 @@
+As a reliable assistant, your role is to help me settle a matter by collecting information from multiple sources.  Please provide answers to the best of your knowledge.  Your answers should follow the format: "The answer is [answer], and the reason is [reason]."  If you are unable to resolve the problem, please respond with "None."

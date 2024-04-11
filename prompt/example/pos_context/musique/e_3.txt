@@ -1,0 +1,3 @@
+Context: Compton is a city in southern Los Angeles County, California, United States, situated south of downtown Los Angeles. Smoke in tha City is the ninth studio album by American rapper MC Eiht, released September 14, 2004 on Factor House Records. Aaron Tyler (born May 22, 1971), better known by his stage name MC Eiht, is an American rapper and actor. Many of his songs are based on his life in Compton.
+Question: In which county was the birthplace of the Smoke in tha City performer? A: Los Angeles County B: Orange County C: San Diego County D: Riverside County
+Answer: The performer of Smoke in tha City is MC Eiht. MC Eiht's birthplace is Compton. Compton is located in the county of Los Angeles County. So the answer is: A: Los Angeles County.

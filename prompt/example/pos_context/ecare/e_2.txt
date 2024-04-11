@@ -1,0 +1,3 @@
+Context: Fireplaces catch fire.
+Question: It was snowing heavily. What happened as a more possible result? A: Tom lit the fireplace. B: The shingle was loosen.
+Answer: The most likely outcome in this situation is A, Tom lit the fireplace. This is because during heavy snowfall, people tend to light fireplaces to keep warm and create a cozy atmosphere. Therefore, the answer is A: Tom lit the fireplace.

@@ -1,0 +1,3 @@
+Context: home is the place where you can see the real happiness
+Question: After work and errands the mother just wanted some peace and quiet, she couldn't wait to just get where? A: sea B: library C: driveway D: top of mountain E: home
+Answer: Home is a place where one can find real happiness. Since the mother was looking for a peaceful environment, it is likely that she was looking forward to returning to her home. Therefore, the answer is E: home.

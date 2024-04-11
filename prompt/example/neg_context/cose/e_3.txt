@@ -1,0 +1,3 @@
+Context: If the car is broken, it should be send to the repair shop
+Question: The car was overheating, where was it located? A: airport B: neighbor's house C: in phoenix D: repair shop E: street corner
+Answer: The car was overheating, which indicates that it was experiencing a problem and needed to be fixed. In this context, the most appropriate place for the car to be located is at the repair shop, where it can be properly diagnosed and repaired. Therefore, the answer is D: repair shop.

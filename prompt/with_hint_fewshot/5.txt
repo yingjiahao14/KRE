@@ -1,0 +1,7 @@
+Here are the examples for your reference:
+'''
+{{Example}}: [example1],
+{{Example}}: [example2],
+{{Example}}: [example3],
+'''
+Please focus on understanding the format of these examples and ensure your answers align accordingly. Your thoughtful responses will be greatly appreciated.

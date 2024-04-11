@@ -1,0 +1,2 @@
+Question: All devices inside were turned off. What is the more possible cause of this? A: The beaker was broken down. B: We have to reduced the energy consumption in that room to zero.
+Answer: The more likely cause of all devices being turned off is that there was a need to reduce energy consumption in that room to zero. This could be due to energy-saving measures or to prevent any electrical issues. Therefore, the answer is B: We have to reduced the energy consumption in that room to zero.

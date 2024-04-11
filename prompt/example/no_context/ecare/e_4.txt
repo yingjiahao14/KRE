@@ -1,0 +1,2 @@
+Question: Lili will choose a branch of systematics to continue her study. What happened as a more possible result? A: She chooses taxonomy. B: She went to a college after graduation from high school.
+Answer: Option B is more relevant to the context of her continuing her education, as it mentions her going to college after graduating from high school. Therefore, the answer is A: She chooses taxonomy.

@@ -1,0 +1,7 @@
+Please find below some reference examples:
+'''
+Example 1: [example1]
+Example 2: [example2]
+Example 3: [example3]
+'''
+Please note that there might be errors in these examples, these given examples are only for the format reference. After reviewing the examples, please answer the following question.

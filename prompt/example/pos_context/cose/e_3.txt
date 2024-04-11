@@ -1,0 +1,3 @@
+Context: phoenix is located in the desert
+Question: The car was overheating, where was it located? A: airport B: neighbor's house C: in phoenix D: repair shop E: street corner
+Answer: Since Phoenix is located in the desert and the car was overheating, it is likely that the car was located in Phoenix due to the high temperatures in the area. Therefore, the answer is C: in phoenix.

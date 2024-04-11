@@ -1,0 +1,3 @@
+Context: Beaker explosions in the lab are scary due to the safety concerns they present, their unpredictability, the potential damage to equipment.
+Question: All devices inside were turned off. What is the more possible cause of this? A: The beaker was broken down. B: We have to reduced the energy consumption in that room to zero.
+Answer: A broken beaker can cause safety hazards and potential damage to equipment, which would necessitate turning off all devices to ensure safety and prevent further damage. Therefore, the answer is A: The beaker was broken down.

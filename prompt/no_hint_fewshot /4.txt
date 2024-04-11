@@ -1,0 +1,7 @@
+Kindly review the following examples:
+'''
+{{Example}}: [example1],
+{{Example}}: [example2],
+{{Example}}: [example3],
+'''
+Please read through these examples help me the following question.

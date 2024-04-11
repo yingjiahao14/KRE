@@ -1,0 +1,7 @@
+Now I want you to read some examples and help me answer some questions.
+
+Example: [example1],
+Example: [example2],
+Example: [example3],
+
+Attention: you just need to learn how to answer in format like these examples.

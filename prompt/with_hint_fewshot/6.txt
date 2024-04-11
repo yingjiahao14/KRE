@@ -1,0 +1,7 @@
+I want you to imitate the reasoning of these sample answers to the current questions I provide:
+'''
+[example1],
+[example2],
+[example3],
+'''
+Note: Some of the reasoning in these examples are wrong, I hope you do not care whether the reasoning is correct when referring to these examples.

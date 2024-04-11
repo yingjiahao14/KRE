@@ -1,0 +1,3 @@
+Context: spicy food can lead to stomach problems
+Question: Billy was a human, and he had human bodily functions.  He needed to catch his flight but ended up missing it, because he had too much mexican and was stuck where? A: bed B: couch C: bathroom D: school E: airport
+Answer: Although spicy food can lead to stomach problems and Billy might have spent some time in the bathroom (option C), the question states that he missed his flight. This implies that he was unable to reach the airport on time. Therefore, the answer is E: airport.

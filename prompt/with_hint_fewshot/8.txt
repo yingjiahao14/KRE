@@ -1,0 +1,7 @@
+## Example ##
+'''
+[example1],
+[example2],
+[example3],
+'''
+Of course, There may exsit some errors in the reasoning of these examples, you can not completely based on the examples I given to you, I hope you have your own understanding of the reasoning process, and can provide a more accurate answer to the current question.
